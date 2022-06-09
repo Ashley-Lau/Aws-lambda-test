@@ -1,0 +1,14 @@
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/MyProject
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/appsettings.Development.json
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/appsettings.json
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/aws-lambda-tools-defaults.json
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/MyProject.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/MyProject.deps.json
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/MyProject.runtimeconfig.json
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/MyProject.pdb
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.APIGatewayEvents.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.ApplicationLoadBalancerEvents.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.AspNetCoreServer.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.Logging.AspNetCore.dll
+/Users/ashleylau/Desktop/playground/Aws-serverless/MyProject/src/MyProject/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
